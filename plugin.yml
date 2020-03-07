@@ -1,0 +1,8 @@
+name: EWM
+version: 1.0
+author: Tillthen
+main: com.ewm.Main
+load: STARTUP
+commands:
+  ewm:
+    description: EasyWorldManager main command
